@@ -1,0 +1,4 @@
+def welcome
+puts "hello world"
+end
+
